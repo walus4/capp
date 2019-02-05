@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Capgemini.Domain.DTO.CustormerDTO>
+
+@if (@Model != null)
+{
+    <select id="customerId">
+        @foreach (var customer in @Model)
+        {
+            <option value="@customer.Id">@customer.CompanyName</option>
+        }
+        
+    </select>
+}

@@ -1,0 +1,17 @@
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\bin\Debug\netcoreapp2.2\Capgemini.Domain.Test.deps.json
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\bin\Debug\netcoreapp2.2\Capgemini.Domain.Test.runtimeconfig.json
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\bin\Debug\netcoreapp2.2\Capgemini.Domain.Test.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\bin\Debug\netcoreapp2.2\Capgemini.Domain.Test.dll
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\bin\Debug\netcoreapp2.2\Capgemini.Domain.dll
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\bin\Debug\netcoreapp2.2\Capgemini.Domain.pdb
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\obj\Debug\netcoreapp2.2\Capgemini.Domain.Test.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\obj\Debug\netcoreapp2.2\Capgemini.Domain.Test.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\obj\Debug\netcoreapp2.2\Capgemini.Domain.Test.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\obj\Debug\netcoreapp2.2\Capgemini.Domain.Test.AssemblyInfo.cs
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\obj\Debug\netcoreapp2.2\Capgemini.Domain.Test.csproj.CopyComplete
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\bin\Debug\netcoreapp2.2\Capgemini.Domain.Test.pdb
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\obj\Debug\netcoreapp2.2\Capgemini.Domain.Test.dll
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain.Test\obj\Debug\netcoreapp2.2\Capgemini.Domain.Test.pdb

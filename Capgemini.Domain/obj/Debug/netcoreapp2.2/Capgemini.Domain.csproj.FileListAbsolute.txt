@@ -1,0 +1,9 @@
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain\bin\Debug\netcoreapp2.2\Capgemini.Domain.deps.json
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain\bin\Debug\netcoreapp2.2\Capgemini.Domain.dll
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain\bin\Debug\netcoreapp2.2\Capgemini.Domain.pdb
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain\obj\Debug\netcoreapp2.2\Capgemini.Domain.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain\obj\Debug\netcoreapp2.2\Capgemini.Domain.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain\obj\Debug\netcoreapp2.2\Capgemini.Domain.AssemblyInfo.cs
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain\obj\Debug\netcoreapp2.2\Capgemini.Domain.dll
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain\obj\Debug\netcoreapp2.2\Capgemini.Domain.pdb
+C:\Users\micha\source\repos\Capgemini\Capgemini.Domain\obj\Debug\netcoreapp2.2\Capgemini.Domain.csprojAssemblyReference.cache

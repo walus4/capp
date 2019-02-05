@@ -1,0 +1,9 @@
+C:\Users\micha\source\repos\Capgemini\ClassLibrary1\obj\Debug\netcoreapp2.2\Capgemini.Helper.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Capgemini\ClassLibrary1\obj\Debug\netcoreapp2.2\Capgemini.Helper.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Capgemini\ClassLibrary1\obj\Debug\netcoreapp2.2\Capgemini.Helper.AssemblyInfo.cs
+C:\Users\micha\source\repos\Capgemini\ClassLibrary1\bin\Debug\netcoreapp2.2\Capgemini.Helper.deps.json
+C:\Users\micha\source\repos\Capgemini\ClassLibrary1\bin\Debug\netcoreapp2.2\Capgemini.Helper.dll
+C:\Users\micha\source\repos\Capgemini\ClassLibrary1\bin\Debug\netcoreapp2.2\Capgemini.Helper.pdb
+C:\Users\micha\source\repos\Capgemini\ClassLibrary1\obj\Debug\netcoreapp2.2\Capgemini.Helper.dll
+C:\Users\micha\source\repos\Capgemini\ClassLibrary1\obj\Debug\netcoreapp2.2\Capgemini.Helper.pdb
+C:\Users\micha\source\repos\Capgemini\ClassLibrary1\obj\Debug\netcoreapp2.2\Capgemini.Helper.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\bin\Debug\netcoreapp2.2\Capgemini.API.deps.json
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\bin\Debug\netcoreapp2.2\Capgemini.API.runtimeconfig.json
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\bin\Debug\netcoreapp2.2\Capgemini.API.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\bin\Debug\netcoreapp2.2\Capgemini.API.dll
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\bin\Debug\netcoreapp2.2\Capgemini.API.pdb
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\bin\Debug\netcoreapp2.2\Capgemini.Domain.dll
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\bin\Debug\netcoreapp2.2\Capgemini.Domain.pdb
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\obj\Debug\netcoreapp2.2\Capgemini.API.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\obj\Debug\netcoreapp2.2\Capgemini.API.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\obj\Debug\netcoreapp2.2\Capgemini.API.RazorAssemblyInfo.cache
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\obj\Debug\netcoreapp2.2\Capgemini.API.RazorAssemblyInfo.cs
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\obj\Debug\netcoreapp2.2\Capgemini.API.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\obj\Debug\netcoreapp2.2\Capgemini.API.AssemblyInfo.cs
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\obj\Debug\netcoreapp2.2\Capgemini.API.RazorTargetAssemblyInfo.cache
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\obj\Debug\netcoreapp2.2\Capgemini.API.csproj.CopyComplete
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\obj\Debug\netcoreapp2.2\Capgemini.API.dll
+C:\Users\micha\source\repos\Capgemini\Capgemini.API\obj\Debug\netcoreapp2.2\Capgemini.API.pdb
